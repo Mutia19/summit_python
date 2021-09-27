@@ -1,0 +1,221 @@
+tahun,wilayah,kecamatan,tenaga_kesehatan,jumlah
+2020,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,dokter,23
+2020,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,dokter,20
+2020,Jakarta Selatan,CILANDAK,dokter,256
+2020,Jakarta Selatan,JAGAKARSA ,dokter,213
+2020,Jakarta Selatan,KEBAYORAN BARU,dokter,415
+2020,Jakarta Selatan,KEBAYORAN LAMA,dokter,242
+2020,Jakarta Selatan,MAMPANG PRAPATAN,dokter,116
+2020,Jakarta Selatan,PANCORAN,dokter,154
+2020,Jakarta Selatan,PASAR MINGGU,dokter,260
+2020,Jakarta Selatan,PESANGGRAHAN,dokter,165
+2020,Jakarta Selatan,SETIABUDI,dokter,314
+2020,Jakarta Selatan,TEBET,dokter,203
+2020,Jakarta Timur,JATINEGARA,dokter,134
+2020,Jakarta Timur,MATRAMAN,dokter,95
+2020,Jakarta Timur,PULOGADUNG,dokter,211
+2020,Jakarta Timur,CAKUNG,dokter,139
+2020,Jakarta Timur,DUREN SAWIT,dokter,240
+2020,Jakarta Timur,KRAMAT JATI,dokter,279
+2020,Jakarta Timur,MAKASAR,dokter,165
+2020,Jakarta Timur,CIPAYUNG,dokter,157
+2020,Jakarta Timur,PASAR REBO,dokter,296
+2020,Jakarta Timur,CIRACAS,dokter,145
+2020,Jakarta Pusat,Cempaka Putih,dokter,277
+2020,Jakarta Pusat,Johar Baru,dokter,78
+2020,Jakarta Pusat,Menteng,dokter,146
+2020,Jakarta Pusat,Tanah Abang,dokter,360
+2020,Jakarta Pusat,Kemayoran,dokter,504
+2020,Jakarta Pusat,Senen,dokter,733
+2020,Jakarta Pusat,Sawah Besar,dokter,151
+2020,Jakarta Pusat,Gambir,dokter,281
+2020,Jakarta Barat,KEMBANGAN,dokter,332
+2020,Jakarta Barat,KEBON JERUK,dokter,292
+2020,Jakarta Barat,PALMERAH,dokter,377
+2020,Jakarta Barat,GROGOL PETAMBURAN,dokter,240
+2020,Jakarta Barat,TAMBORA,dokter,143
+2020,Jakarta Barat,TAMAN SARI,dokter,122
+2020,Jakarta Barat,CENGKARENG,dokter,246
+2020,Jakarta Barat,KALIDERES,dokter,243
+2020,Jakarta Utara,Penjaringan,dokter,319
+2020,Jakarta Utara,Pademangan,dokter,94
+2020,Jakarta Utara,Tanjung Priok,dokter,295
+2020,Jakarta Utara,Koja,dokter,276
+2020,Jakarta Utara,Kelapa Gading,dokter,179
+2020,Jakarta Utara,Cilincing,dokter,182
+2020,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,perawat,56
+2020,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,perawat,33
+2020,Jakarta Selatan,CILANDAK,perawat,1791
+2020,Jakarta Selatan,JAGAKARSA ,perawat,380
+2020,Jakarta Selatan,KEBAYORAN BARU,perawat,1128
+2020,Jakarta Selatan,KEBAYORAN LAMA,perawat,793
+2020,Jakarta Selatan,MAMPANG PRAPATAN,perawat,155
+2020,Jakarta Selatan,PANCORAN,perawat,464
+2020,Jakarta Selatan,PASAR MINGGU,perawat,995
+2020,Jakarta Selatan,PESANGGRAHAN,perawat,506
+2020,Jakarta Selatan,SETIABUDI,perawat,1214
+2020,Jakarta Selatan,TEBET,perawat,338
+2020,Jakarta Timur,JATINEGARA,perawat,573
+2020,Jakarta Timur,MATRAMAN,perawat,255
+2020,Jakarta Timur,PULOGADUNG,perawat,1193
+2020,Jakarta Timur,CAKUNG,perawat,157
+2020,Jakarta Timur,DUREN SAWIT,perawat,590
+2020,Jakarta Timur,KRAMAT JATI,perawat,2456
+2020,Jakarta Timur,MAKASAR,perawat,685
+2020,Jakarta Timur,CIPAYUNG,perawat,345
+2020,Jakarta Timur,PASAR REBO,perawat,1526
+2020,Jakarta Timur,CIRACAS,perawat,250
+2020,Jakarta Pusat,Cempaka Putih,perawat,947
+2020,Jakarta Pusat,Johar Baru,perawat,95
+2020,Jakarta Pusat,Menteng,perawat,626
+2020,Jakarta Pusat,Tanah Abang,perawat,1155
+2020,Jakarta Pusat,Kemayoran,perawat,1156
+2020,Jakarta Pusat,Senen,perawat,4076
+2020,Jakarta Pusat,Sawah Besar,perawat,442
+2020,Jakarta Pusat,Gambir,perawat,1327
+2020,Jakarta Barat,KEMBANGAN,perawat,1013
+2020,Jakarta Barat,KEBON JERUK,perawat,758
+2020,Jakarta Barat,PALMERAH,perawat,2464
+2020,Jakarta Barat,GROGOL PETAMBURAN,perawat,518
+2020,Jakarta Barat,TAMBORA,perawat,77
+2020,Jakarta Barat,TAMAN SARI,perawat,125
+2020,Jakarta Barat,CENGKARENG,perawat,675
+2020,Jakarta Barat,KALIDERES,perawat,537
+2020,Jakarta Utara,Penjaringan,perawat,980
+2020,Jakarta Utara,Pademangan,perawat,115
+2020,Jakarta Utara,Tanjung Priok,perawat,900
+2020,Jakarta Utara,Koja,perawat,1340
+2020,Jakarta Utara,Kelapa Gading,perawat,569
+2020,Jakarta Utara,Cilincing,perawat,437
+2020,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,bidan,35
+2020,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,bidan,22
+2020,Jakarta Selatan,CILANDAK,bidan,166
+2020,Jakarta Selatan,JAGAKARSA ,bidan,247
+2020,Jakarta Selatan,KEBAYORAN BARU,bidan,192
+2020,Jakarta Selatan,KEBAYORAN LAMA,bidan,220
+2020,Jakarta Selatan,MAMPANG PRAPATAN,bidan,97
+2020,Jakarta Selatan,PANCORAN,bidan,125
+2020,Jakarta Selatan,PASAR MINGGU,bidan,233
+2020,Jakarta Selatan,PESANGGRAHAN,bidan,111
+2020,Jakarta Selatan,SETIABUDI,bidan,155
+2020,Jakarta Selatan,TEBET,bidan,113
+2020,Jakarta Timur,JATINEGARA,bidan,122
+2020,Jakarta Timur,MATRAMAN,bidan,77
+2020,Jakarta Timur,PULOGADUNG,bidan,178
+2020,Jakarta Timur,CAKUNG,bidan,175
+2020,Jakarta Timur,DUREN SAWIT,bidan,331
+2020,Jakarta Timur,KRAMAT JATI,bidan,273
+2020,Jakarta Timur,MAKASAR,bidan,175
+2020,Jakarta Timur,CIPAYUNG,bidan,162
+2020,Jakarta Timur,PASAR REBO,bidan,244
+2020,Jakarta Timur,CIRACAS,bidan,103
+2020,Jakarta Pusat,Cempaka Putih,bidan,127
+2020,Jakarta Pusat,Johar Baru,bidan,76
+2020,Jakarta Pusat,Menteng,bidan,137
+2020,Jakarta Pusat,Tanah Abang,bidan,172
+2020,Jakarta Pusat,Kemayoran,bidan,137
+2020,Jakarta Pusat,Senen,bidan,310
+2020,Jakarta Pusat,Sawah Besar,bidan,76
+2020,Jakarta Pusat,Gambir,bidan,192
+2020,Jakarta Barat,KEMBANGAN,bidan,230
+2020,Jakarta Barat,KEBON JERUK,bidan,179
+2020,Jakarta Barat,PALMERAH,bidan,247
+2020,Jakarta Barat,GROGOL PETAMBURAN,bidan,94
+2020,Jakarta Barat,TAMBORA,bidan,83
+2020,Jakarta Barat,TAMAN SARI,bidan,53
+2020,Jakarta Barat,CENGKARENG,bidan,185
+2020,Jakarta Barat,KALIDERES,bidan,210
+2020,Jakarta Utara,Penjaringan,bidan,246
+2020,Jakarta Utara,Pademangan,bidan,50
+2020,Jakarta Utara,Tanjung Priok,bidan,225
+2020,Jakarta Utara,Koja,bidan,238
+2020,Jakarta Utara,Kelapa Gading,bidan,80
+2020,Jakarta Utara,Cilincing,bidan,224
+2020,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,farmasi,10
+2020,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,farmasi,5
+2020,Jakarta Selatan,CILANDAK,farmasi,338
+2020,Jakarta Selatan,JAGAKARSA ,farmasi,171
+2020,Jakarta Selatan,KEBAYORAN BARU,farmasi,268
+2020,Jakarta Selatan,KEBAYORAN LAMA,farmasi,286
+2020,Jakarta Selatan,MAMPANG PRAPATAN,farmasi,90
+2020,Jakarta Selatan,PANCORAN,farmasi,113
+2020,Jakarta Selatan,PASAR MINGGU,farmasi,220
+2020,Jakarta Selatan,PESANGGRAHAN,farmasi,90
+2020,Jakarta Selatan,SETIABUDI,farmasi,305
+2020,Jakarta Selatan,TEBET,farmasi,112
+2020,Jakarta Timur,JATINEGARA,farmasi,142
+2020,Jakarta Timur,MATRAMAN,farmasi,69
+2020,Jakarta Timur,PULOGADUNG,farmasi,274
+2020,Jakarta Timur,CAKUNG,farmasi,82
+2020,Jakarta Timur,DUREN SAWIT,farmasi,177
+2020,Jakarta Timur,KRAMAT JATI,farmasi,347
+2020,Jakarta Timur,MAKASAR,farmasi,135
+2020,Jakarta Timur,CIPAYUNG,farmasi,109
+2020,Jakarta Timur,PASAR REBO,farmasi,297
+2020,Jakarta Timur,CIRACAS,farmasi,77
+2020,Jakarta Pusat,Cempaka Putih,farmasi,229
+2020,Jakarta Pusat,Johar Baru,farmasi,45
+2020,Jakarta Pusat,Menteng,farmasi,176
+2020,Jakarta Pusat,Tanah Abang,farmasi,297
+2020,Jakarta Pusat,Kemayoran,farmasi,171
+2020,Jakarta Pusat,Senen,farmasi,613
+2020,Jakarta Pusat,Sawah Besar,farmasi,98
+2020,Jakarta Pusat,Gambir,farmasi,143
+2020,Jakarta Barat,KEMBANGAN,farmasi,311
+2020,Jakarta Barat,KEBON JERUK,farmasi,241
+2020,Jakarta Barat,PALMERAH,farmasi,390
+2020,Jakarta Barat,GROGOL PETAMBURAN,farmasi,144
+2020,Jakarta Barat,TAMBORA,farmasi,84
+2020,Jakarta Barat,TAMAN SARI,farmasi,89
+2020,Jakarta Barat,CENGKARENG,farmasi,129
+2020,Jakarta Barat,KALIDERES,farmasi,148
+2020,Jakarta Utara,Penjaringan,farmasi,319
+2020,Jakarta Utara,Pademangan,farmasi,35
+2020,Jakarta Utara,Tanjung Priok,farmasi,234
+2020,Jakarta Utara,Koja,farmasi,242
+2020,Jakarta Utara,Kelapa Gading,farmasi,159
+2020,Jakarta Utara,Cilincing,farmasi,113
+2020,Kepulauan Seribu,KEPULAUAN SERIBU UTARA,ahli_gizi,4
+2020,Kepulauan Seribu,KEPULAUAN SERIBU SELATAN,ahli_gizi,5
+2020,Jakarta Selatan,CILANDAK,ahli_gizi,47
+2020,Jakarta Selatan,JAGAKARSA ,ahli_gizi,33
+2020,Jakarta Selatan,KEBAYORAN BARU,ahli_gizi,36
+2020,Jakarta Selatan,KEBAYORAN LAMA,ahli_gizi,29
+2020,Jakarta Selatan,MAMPANG PRAPATAN,ahli_gizi,15
+2020,Jakarta Selatan,PANCORAN,ahli_gizi,17
+2020,Jakarta Selatan,PASAR MINGGU,ahli_gizi,29
+2020,Jakarta Selatan,PESANGGRAHAN,ahli_gizi,25
+2020,Jakarta Selatan,SETIABUDI,ahli_gizi,45
+2020,Jakarta Selatan,TEBET,ahli_gizi,20
+2020,Jakarta Timur,JATINEGARA,ahli_gizi,22
+2020,Jakarta Timur,MATRAMAN,ahli_gizi,12
+2020,Jakarta Timur,PULOGADUNG,ahli_gizi,55
+2020,Jakarta Timur,CAKUNG,ahli_gizi,17
+2020,Jakarta Timur,DUREN SAWIT,ahli_gizi,25
+2020,Jakarta Timur,KRAMAT JATI,ahli_gizi,79
+2020,Jakarta Timur,MAKASAR,ahli_gizi,27
+2020,Jakarta Timur,CIPAYUNG,ahli_gizi,25
+2020,Jakarta Timur,PASAR REBO,ahli_gizi,44
+2020,Jakarta Timur,CIRACAS,ahli_gizi,32
+2020,Jakarta Pusat,Cempaka Putih,ahli_gizi,41
+2020,Jakarta Pusat,Johar Baru,ahli_gizi,11
+2020,Jakarta Pusat,Menteng,ahli_gizi,23
+2020,Jakarta Pusat,Tanah Abang,ahli_gizi,34
+2020,Jakarta Pusat,Kemayoran,ahli_gizi,64
+2020,Jakarta Pusat,Senen,ahli_gizi,156
+2020,Jakarta Pusat,Sawah Besar,ahli_gizi,15
+2020,Jakarta Pusat,Gambir,ahli_gizi,22
+2020,Jakarta Barat,KEMBANGAN,ahli_gizi,35
+2020,Jakarta Barat,KEBON JERUK,ahli_gizi,29
+2020,Jakarta Barat,PALMERAH,ahli_gizi,100
+2020,Jakarta Barat,GROGOL PETAMBURAN,ahli_gizi,44
+2020,Jakarta Barat,TAMBORA,ahli_gizi,17
+2020,Jakarta Barat,TAMAN SARI,ahli_gizi,9
+2020,Jakarta Barat,CENGKARENG,ahli_gizi,16
+2020,Jakarta Barat,KALIDERES,ahli_gizi,29
+2020,Jakarta Utara,Penjaringan,ahli_gizi,42
+2020,Jakarta Utara,Pademangan,ahli_gizi,8
+2020,Jakarta Utara,Tanjung Priok,ahli_gizi,60
+2020,Jakarta Utara,Koja,ahli_gizi,39
+2020,Jakarta Utara,Kelapa Gading,ahli_gizi,42
+2020,Jakarta Utara,Cilincing,ahli_gizi,38
